@@ -5,18 +5,6 @@ import numpy as np
 import pandas as pd
 import csv
 
-<<<<<<< HEAD:src/data/fiw.py
-from utils import io
-import fiwdb.database as db
-import fiwdb.helpers as helpers
-from fiwdb.database import load_fids
-
-from collections import defaultdict
-import common.log as log
-from utils.io import sys_home as dir_home
-from data import fiw
-from pyfiw.configs import CONFIGS
-=======
 from fiwtools.utils import io
 import fiwtools.fiwdb.database as db
 import fiwtools.fiwdb.helpers as helpers
@@ -26,7 +14,6 @@ from collections import defaultdict
 import fiwtools.utils.log as log
 from fiwtools.utils import sys_home as dir_home
 from fiwtools.data import fiw
->>>>>>> master:src/fiwtools/data/fiw.py
 
 
 # import logging

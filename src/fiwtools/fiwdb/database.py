@@ -8,15 +8,9 @@ from __future__ import print_function
 import glob
 import pandas as pd
 import numpy as np
-<<<<<<< HEAD:src/fiwdb/database.py
-import common.image as imutils
-import common.io as io
-import common.log as log
-=======
 import fiwtools.utils.image as imutils
 import fiwtools.utils.io as io
 import fiwtools.utils.log as log
->>>>>>> master:src/fiwtools/fiwdb/database.py
 import operator
 import csv
 import random
