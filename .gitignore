@@ -132,4 +132,4 @@ Temporary Items
 .apdisk
 
 # VSCode config
-.vscode/
+.vscode/*
